@@ -1,0 +1,5 @@
+[core]
+	excludesfile = ~/.gitignore-global
+	autocrlf = input
+[push]
+	default = simple
